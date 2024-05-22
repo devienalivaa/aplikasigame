@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aplikasigame", "aplikasigame\aplikasigame.csproj", "{11DFD5AA-72D1-43AA-BE73-E3D8A5EEA04A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11DFD5AA-72D1-43AA-BE73-E3D8A5EEA04A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11DFD5AA-72D1-43AA-BE73-E3D8A5EEA04A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11DFD5AA-72D1-43AA-BE73-E3D8A5EEA04A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11DFD5AA-72D1-43AA-BE73-E3D8A5EEA04A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8CE04571-3A54-470C-8207-646958095574}
+	EndGlobalSection
+EndGlobal
